@@ -2,7 +2,7 @@ import './App.css';
 import Main from "./components/Main/Main";
 import Header from "./components/Header/Header";
 import Footer from "./components/Footer/Footer";
-import ControlMovement from "./components/common/Control_movement";
+import ControlMovement from "./components/common/ControlMovement";
 
 
 function App() {
