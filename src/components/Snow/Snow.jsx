@@ -6,7 +6,7 @@ const Snow = () => {
     return (
         <>
             {Array.from(Array(amount).keys()).map(i => (
-                <div className="snow"/>
+                <div className="snow" key={i}/>
             ))}
         </>
     );
